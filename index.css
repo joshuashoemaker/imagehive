@@ -22,7 +22,7 @@ body{
 }
 
 .bannerBlur {
-  background-image: url("/img/banner.jpg");
+  background-image: url("img/banner.jpg");
   background-position: center;
   background-size: cover;
   filter: blur(3px);
@@ -179,22 +179,22 @@ nav li {
 }
 
 #digitizeFilm {
-  background-image: url("/img/digitizeFilm.jpg");
+  background-image: url("img/digitizeFilm.jpg");
 }
 #digitizeTapes {
-  background-image: url("/img/digitizeTapes.jpg");
+  background-image: url("img/digitizeTapes.jpg");
 }
 #digitizePhotos {
-  background-image: url("/img/digitizePhotos.jpg");
+  background-image: url("img/digitizePhotos.jpg");
 }
 #digitizeAudio {
-  background-image: url("/img/digitizeAudio.jpg");
+  background-image: url("img/digitizeAudio.jpg");
 }
 #digitizeSlides {
-  background-image: url("/img/digitizeSlides.jpg");
+  background-image: url("img/digitizeSlides.jpg");
 }
 #digitizeNegatives {
-  background-image: url("/img/digitizeNegatives.jpg");
+  background-image: url("img/digitizeNegatives.jpg");
 }
 
 .closer{
@@ -280,13 +280,13 @@ nav li {
 }
 
 #digitizeByHand{
-  background-image: url("/img/digitizeByHand.jpg");
+  background-image: url("img/digitizeByHand.jpg");
 }
 #personalCare{
-  background-image: url("/img/personalCare.jpg");
+  background-image: url("img/personalCare.jpg");
 }
 #satisfactionGar{
-  background-image: url("/img/satisfactionGar.jpg");
+  background-image: url("img/satisfactionGar.jpg");
 }
 
 .howItWorksWrapper{
@@ -324,13 +324,13 @@ nav li {
 }
 
 #shipIt{
-  background-image: url("/img/shipIt.jpg");
+  background-image: url("img/shipIt.jpg");
 }
 #convert{
-  background-image: url("/img/convert.jpg");
+  background-image: url("img/convert.jpg");
 }
 #enjoy{
-  background-image: url("/img/enjoy.jpg");
+  background-image: url("img/enjoy.jpg");
 }
 
 #mc_embed_signup{
