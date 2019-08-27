@@ -22,7 +22,7 @@ body{
 }
 
 .bannerBlur {
-  background-image: url("img/banner.jpg");
+  background-image: url("img/banner1.jpg");
   background-position: center;
   background-size: cover;
   filter: blur(3px);
