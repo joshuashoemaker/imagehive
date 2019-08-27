@@ -22,11 +22,11 @@
 
       <nav class="brandFont">
         <ul>
-          <li>
+          <li onclick="scrollToServices()">
             <img class="icon" src="img/film-reel.svg" alt="Services Icon" />
             Our Services
           </li>
-          <li>
+          <li onclick="scrollToHowItWorks()">
             <img class="icon" src="img/carePackage.svg" alt="Order Icon" />
             How It Works
           </li>
@@ -42,11 +42,11 @@
             <br />
             Fade Away
           </h1>
-          <span class="button brandFontLight">Perserve My Memories Today</span>
+          <span onclick='navToIH()' class="button brandFontLight">Perserve My Memories Today</span>
         </div>
     </section>
 
-    <section class='trustedByWrapper'>
+    <section id="servicesAnchor" class='trustedByWrapper'>
       <div>
         <h2 class="brandFontBold">Trusted By Thousands of Families and Businesses!</h2>
         <h3 class="brandFontLight">Helping Families Preserve Their Memories Forever</h3>
@@ -109,7 +109,7 @@
       </div>
     </section>
 
-    <section class="howItWorksWrapper">
+    <section id="howItWorksAnchor" class="howItWorksWrapper">
       <h1 class="brandFontBold">How It Works!</h1>
       <div class="howItWorksItems">
         <div class="howItWorksItem">
@@ -223,5 +223,7 @@
         </div>
       </div>
     </footer>
+
+    <script type="text/javascript" src="index.js"></script>
   </body>
 </html>
