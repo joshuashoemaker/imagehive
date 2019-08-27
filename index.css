@@ -153,8 +153,11 @@ header h1{
 
 .headerBrand {
   display: inline-block;
-  max-width: 216px;
   padding:4px;
+}
+
+.headerTitle {
+  font-size: 1.5em;
 }
 
 nav {
