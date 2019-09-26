@@ -266,6 +266,11 @@ nav li {
   width: 100%
 }
 
+.introParagraph {
+  max-width: 600px;
+  margin: 4px auto 0px;
+}
+
 .experienceItem{
   cursor: pointer;
   width: 28%;
